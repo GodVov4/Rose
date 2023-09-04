@@ -1,9 +1,9 @@
 from turtle import *
 import colorsys
-
 import config
 
 
+# Choose a picture:
 # star
 # lotus
 # some flower
